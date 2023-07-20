@@ -26,6 +26,8 @@ hacked&quot;);&lt;/script&gt;
 
 HTML, JavaScript, Bootstrap Css
 
+Readme.md created with [readme.so](https://readme.so/).
+
 ## Roadmap
 
 [x] Add single quotes (') option with checkbox
