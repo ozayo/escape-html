@@ -32,6 +32,6 @@ Readme.md created with [readme.so](https://readme.so/).
 
 [x] Add single quotes (') option with checkbox
 
-[ ] Publish
+[x] Publish
 
 [ ] Add Unescape (reverse) process.
